@@ -1,3 +1,3 @@
 # ahududu
-ahududu.org
+Türkiye'nin bir numaralı bilişim platformu
 https://ahududu.org
