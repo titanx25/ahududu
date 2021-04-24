@@ -132,6 +132,8 @@ printf "\r$r$b    Error Occured $endc$enda\n" >&2
 # Install other tools like nano
 sudo apt-get install gdebi -y &> /dev/null
 sudo apt-get install firefox -y &> /dev/null
+sudo apt-get install xterm -y &> /dev/null
+sudo apt-get install tilda -y &> /dev/null
 sudo apt-get install vim -y &> /dev/null
 printf "$g$b    Installing other Tools $endc$enda" >&2
 if sudo apt install nautilus nano -y &> /dev/null
